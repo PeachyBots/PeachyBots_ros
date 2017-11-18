@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>PeachyBots_ros</name>
+  <name>peachybots_ros</name>
   <version>0.0.0</version>
   <description>The software for the PeachyBots robots</description>
 
